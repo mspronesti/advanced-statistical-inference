@@ -16,7 +16,7 @@ You can edit and execute these notebooks using [Google Colab](https://colab.rese
 | Logistic regression with MCMC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/mcmc_logistic_regression/Bayesian_Logistic_Regression_MCMC.ipynb)|
 | Variational inference         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/variational_inference/Variational_Logistic_Regression.ipynb)|
 | Probabilistic PCA         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/probabilistic_pca/Probabilistic_PCA.ipynb)|
-| Final Assignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/final_assessment/Santander_Customer_Transaction.ipynb)|
+| Final Assignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/assignment/Santander_Customer_Transaction.ipynb)|
 
 
 ### Local Jupyter
