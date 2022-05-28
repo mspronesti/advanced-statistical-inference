@@ -12,6 +12,7 @@ You can edit and execute these notebooks using [Google Colab](https://colab.rese
 |||
 |:--|:--|
 | Bayesian linear regression    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/bayesian_linear_regression/Bayesian_Linear_Regression.ipynb)|
+| Coin Toss Experiment          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/coint_toss_beta/Coin_Toss_Experiment.ipynb)|
 | Gaussian process regression   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/gaussian_process/Gaussian_Process_Regression.ipynb)|
 | Logistic regression with MCMC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/mcmc_logistic_regression/Bayesian_Logistic_Regression_MCMC.ipynb)|
 | Variational inference         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/variational_inference/Variational_Logistic_Regression.ipynb)|
