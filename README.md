@@ -1,4 +1,4 @@
-# Advanced Statistical Inference 
+# Advanced Statistical Inference  [![](https://img.shields.io/badge/-Eurecom-blue)](https://www.eurecom.fr/en/home)
 
 This course focuses on the principles of learning from data and quantification of uncertainty, by complementing and enriching the Introduction to Statistical Learning course. 
 The presentation of the material follows a common thread based on the probabilistic data modeling approach, so that many classical algorithms, such as least squares and k-means, can be seen as special cases of inference problems for more general probabilistic models. Taking a probabilistic view also allows the course to derive inference algorithms for a class of nonparametric models that have close connections with neural networks and support vector machines. 
@@ -17,6 +17,7 @@ You can edit and execute these notebooks using [Google Colab](https://colab.rese
 | Logistic regression with MCMC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/mcmc_logistic_regression/Bayesian_Logistic_Regression_MCMC.ipynb)|
 | Variational inference         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/variational_inference/Variational_Logistic_Regression.ipynb)|
 | Probabilistic PCA         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/probabilistic_pca/Probabilistic_PCA.ipynb)|
+| K-Means Clustering  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/kmeans_clustering/Clustering.ipynb)|
 | Final Assignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mspronesti/advanced-statistical-inference/blob/master/assignment/Santander_Customer_Transaction.ipynb)|
 
 
